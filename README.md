@@ -45,16 +45,17 @@
 </p>
 <br />
 
-<!-- About Section -->
+<!-- About Section 
  # About me
  
-<p>
-<!--  <img align="right" width="350" src="https://github.com/alsiam/alsiam/blob/main/readme.md" alt="Coding gif" /> -->
+<p>  -->
+<!--  <img align="right" width="350" src="https://github.com/alsiam/alsiam/blob/main/readme.md" alt="Coding gif" /> 
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: shubhamsahu9290@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/shubhcode92/shubhcode92/issues)
+ 
 
 </p>
 
@@ -92,28 +93,25 @@
 <p align="left">
   <a href="https://github.com/shubhcode92?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
-
-<br/>
+-->
+ 
 <hr/>
-<br/>
 
-<p align="center">
-  <a href="https://github.com/alsiam">
+<!-- <p align="center">
+  <a href="https://github.com/shubhcode92">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhcode92&theme=radical&border=7F3FBF&background=0D1117" alt="Shubham's GitHub streak"/>
   </a>
-</p>
+</p>  -->
 
 <p align="center">
   <a href="https://github.com/shubhcode92">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubhcode92&theme=radical" alt="Shubham's GitHub Contribution"/>
   </a>
+  <a href="https://github.com/shubhcode92">
+    <img alt="Shubham's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=shubhcode92&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+  </a>
 </p>
 
-<a> 
-    <a href="https://github.com/shubhcode92"><img alt="Shubham's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=shubhcode92&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/shubhcode92"><img alt="Shubham's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=shubhcode92&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
 
 
 <!-- ![Shubham Sahu's Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhcode92&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
