@@ -1,6 +1,6 @@
 
 <h2 align="center">
-  Welcome to Shubham Sahu World!
+  Hey There!, I am Shubham Sahu!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
@@ -12,14 +12,14 @@
  
 
 <!-- Intro  -->
-<h3 align="center">
+<!-- <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="">Shubham Sahu</a></b>
         </samp>
-</h3>
+</h3>  -->
 
 
-<p align="center"> 
+<!-- <p align="center"> 
   <samp>
     <a href="https://www.google.com/search?q=Shubham+Sahu">「 Google Me 」</a>
     <br>
@@ -27,10 +27,10 @@
     <br>
     <br>
   </samp>
-</p>
+</p>  -->
 
 <p align="center">
- <a href="https://shubhcode92.github.io/shubh-portfolio/" target="blank">
+ <a href="https://shubhcode-portfolio.vercel.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="ShubhamSahu" />
  </a>
  <a href="https://linkedin.com/in/shubhcode92" target="_blank">
@@ -116,4 +116,6 @@
 </a>
 
 
-![Shubham Sahu's Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhcode92&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<!-- ![Shubham Sahu's Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhcode92&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+-->
